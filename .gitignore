@@ -1,4 +1,3 @@
-/target
-/.idea
-/Cargo.lock
-
+./idiomatic/target
+idiomatic/Cargo.lock
+.idea
