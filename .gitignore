@@ -1,3 +1,4 @@
 ./idiomatic/target
 idiomatic/Cargo.lock
 .idea
+/idiomatic/target/
