@@ -1,5 +1,3 @@
-use testing;
-
 #[test]
 fn test_sploosh() {
     assert_eq!(
